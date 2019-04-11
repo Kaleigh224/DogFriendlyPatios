@@ -1,25 +1,20 @@
 * {
     box-sizing: border-box;
     text-align: center;
+    
   }
 
-body {
-   background-image: url("../src/images/dogBonesPink.png")
-}
+/* body {
+   background-image: url("../src/images/KysonLD.jpg")
+} */
 
 h1 {
     text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+    color: #00ccff;
 }
 
-div {
-    width: 75%;
-    padding: 10px;
-    background: white;
-    margin: auto; 
-  }
-
   img {
-      padding: 25px;
-      height: 250px;
-      width: 350px;
+      width: 75%;
+      position: relative;
   }
